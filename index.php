@@ -1,0 +1,3 @@
+<?php
+/*Our test project*/
+?>
