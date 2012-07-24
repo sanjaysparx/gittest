@@ -54,8 +54,9 @@
 
 ?>
 
-/*
+<?php /*
 	 * Hello This is the text comment of Git.
 	 */
+?>
 </body>
 </html>
