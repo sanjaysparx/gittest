@@ -1,0 +1,18 @@
+body{
+	background: #300a24;
+}
+input.stdin{
+	border:0px;
+	border-style:none;
+	font-family:cursor, courier;
+	font-weight: bold;
+	color:#fff;
+	
+	width: 80%;
+	background: #300a24;
+}
+span.stdout{
+	font-family: cursor, courier;
+	font-weight: bold;
+	color:#fff;
+}
