@@ -53,5 +53,9 @@
 /* Hi this is my edit area - SANJAY*/
 
 ?>
+
+/*
+	 * Hello This is the text comment of Git.
+	 */
 </body>
 </html>
