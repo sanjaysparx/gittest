@@ -45,7 +45,12 @@
 <script type="text/javascript" src="js/jsterm.js"></script>
 <?php wp_head(); ?>
 </head>
+#if defined( FILE1 )
 
+#elif defined( FILE2 )
+
+#elif defined( FILE3 )
+#endif
 <body <?php body_class(); ?> onload="Terminal.init();">
 	<input id="stdin" class="stdin" size="30" type="text">
 <?php wp_footer(); ?>
@@ -59,4 +64,10 @@
 	 */
 ?>
 </body>
+#if defined( %s )
 </html>
+#elif defined( %s )
+</html>
+#else
+</html>
+#endif
