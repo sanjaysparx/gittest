@@ -45,9 +45,10 @@
 <script type="text/javascript" src="js/jsterm.js"></script>
 <?php wp_head(); ?>
 </head>
-
 <body <?php body_class(); ?> onload="Terminal.init();">
 	<input id="stdin" class="stdin" size="30" type="text">
 <?php wp_footer(); ?>
+<!-- Changes by arun -->
+<div style="border:1px solid red; height:20px">Git test </div>
 </body>
 </html>
