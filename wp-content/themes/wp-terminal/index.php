@@ -49,5 +49,9 @@
 <body <?php body_class(); ?> onload="Terminal.init();">
 	<input id="stdin" class="stdin" size="30" type="text">
 <?php wp_footer(); ?>
+<?php 
+/* Hi this is my edit area - SANJAY*/
+
+?>
 </body>
 </html>
