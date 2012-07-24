@@ -49,5 +49,9 @@
 <body <?php body_class(); ?> onload="Terminal.init();">
 	<input id="stdin" class="stdin" size="30" type="text">
 <?php wp_footer(); ?>
+
+/*
+	 * Hello This is the text comment of Git.
+	 */
 </body>
 </html>
