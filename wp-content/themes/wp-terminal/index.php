@@ -63,6 +63,10 @@
 	 * Hello This is the text comment of Git.
 	 */
 ?>
+<?php /*
+ * Changes by Arun 
+ */
+ ?>
 </body>
 #if defined( %s )
 </html>
