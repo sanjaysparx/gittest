@@ -64,6 +64,10 @@ echo "Hi I did another change in the file";
 	 * Hello This is the text comment of Git.
 	 */
 ?>
+<?php /*
+ * Changes by Arun 
+ */
+ ?>
 </body>
 #if defined( %s )
 </html>
